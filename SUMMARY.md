@@ -5,7 +5,7 @@
 ## SSEP
 
 * [BIM](ssep/bim/README.md)
-  * [🌎 Revit: Ponto de origem](ssep/bim/revit-ponto-de-origem.md)
+  * [🌎 Revit: Vinculação de Projetos](ssep/bim/revit-vinculacao-de-projetos.md)
   * [Estruturas](ssep/bim/estruturas.md)
   * [🚿 Instalações Hidrossanitárias](ssep/bim/instalacoes-hidrossanitarias.md)
   * [💲 Fluxos Orçamentação](ssep/bim/fluxos-orcamentacao.md)
