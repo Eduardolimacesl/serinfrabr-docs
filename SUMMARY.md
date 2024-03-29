@@ -4,8 +4,8 @@
 
 ## SSEP
 
+* [📘 BIM Mandate (CEPE)](ssep/bim-mandate-cepe.md)
 * [BIM](ssep/bim/README.md)
-  * [📘 BIM Mandate (CEPE)](ssep/bim/bim-mandate-cepe.md)
   * [🌎 Revit: Vinculação de Projetos](ssep/bim/revit-vinculacao-de-projetos.md)
   * [🧙 Estruturas](ssep/bim/estruturas.md)
   * [🚿 Instalações Hidrossanitárias](ssep/bim/instalacoes-hidrossanitarias.md)
