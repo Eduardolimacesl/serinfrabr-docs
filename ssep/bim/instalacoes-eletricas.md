@@ -2,5 +2,5 @@
 description: Documentação em construção...
 ---
 
-# 🧙 Estruturas
+# 🔌 Instalações Elétricas
 
