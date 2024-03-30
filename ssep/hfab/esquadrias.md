@@ -1,2 +1,2 @@
-# 🚪 Esquadrias
+# Esquadrias
 

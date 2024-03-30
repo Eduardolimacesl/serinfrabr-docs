@@ -5,7 +5,7 @@ description: >-
   internas e outros desenvolvidos na OM.
 ---
 
-# 👋 Boas Vindas
+# Boas Vindas
 
 {% hint style="success" %}
 Objetivo: Queremos ajudar as equipes a trabalhar de forma mais eficiente com uma documentação simples, mas poderosa, que as ajude a compartilhar seu conhecimento.

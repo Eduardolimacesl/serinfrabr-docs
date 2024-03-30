@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🌎 Revit: Vinculação de Projetos
+# Revit: Vinculação de Projetos
 
 ### 1. INTRODUÇÃO
 
