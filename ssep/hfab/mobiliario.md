@@ -1,4 +1,4 @@
-# 🪑 Mobiliário
+# Mobiliário
 
 #### Gaveteiro do balcão da recepção
 

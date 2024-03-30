@@ -1,4 +1,4 @@
-# 🚾 Banheiros e vestiários
+# Banheiros e vestiários
 
 
 

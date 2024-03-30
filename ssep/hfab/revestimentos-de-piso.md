@@ -1,4 +1,4 @@
-# 👣 Revestimentos de Piso
+# Revestimentos de Piso
 
 {% hint style="danger" %}
 #### Observações:

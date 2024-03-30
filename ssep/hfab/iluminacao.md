@@ -1,4 +1,4 @@
-# 💡 Iluminação
+# Iluminação
 
 ### Geral
 

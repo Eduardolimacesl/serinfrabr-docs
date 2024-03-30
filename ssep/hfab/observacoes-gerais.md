@@ -1,4 +1,4 @@
-# ℹ️ Observações gerais
+# Observações gerais
 
 {% hint style="warning" %}
 Observações Importantes:
