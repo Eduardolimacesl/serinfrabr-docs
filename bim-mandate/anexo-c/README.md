@@ -16,17 +16,21 @@ A definição apresentada pela Norma NBR-15965-Parte 1 indica o BIM como:
 
 Segundo Succar (2008), BIM é uma mudança tecnológica e processual emergente dentro do mercado de Arquitetura, Engenharia e Construção (AEC). O autor descreve a modelagem da informação como sendo um conjunto de políticas, processos e tecnologias que interagem, gerando uma metodologia para gerenciar o processo de projeto do empreendimento e os dados do projeto essenciais de uma construção, em formato digital, ao longo do ciclo de vida do edifício. A Figura 1 ilustra essa definição.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <div data-full-width="true">
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Figura 1: BIM no Ciclo de Vida dos Empreendimentos (CBIC, adaptado de Succar)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Figura 1: BIM no Ciclo de Vida dos Empreendimentos (CBIC, adaptado de Succar)</p></figcaption></figure>
 
 </div>
 
 A Modelagem da Informação na Construção é considerada uma transição significativa na prática de projeto. Diferentemente do CAD, o BIM é uma mudança de paradigma e pode ainda ser considerado revolucionário, uma vez que faz com que o projetista pense diferente, substituindo desenhos por uma nova representação de projetos, capazes de conectar representações gráficas em 3D com informações das mais diferentes disciplinas, mesmo pertencendo a  dimensões além projeto tais como o planejamento de obras e orçamento. (EASTMAN et al., 2008).
 
 A evolução deste conceito e de suas aplicações na indústria da construção civil levou a sua classificação pelo Fórum Econômico Mundial como uma das 10 tecnologias mais promissoras para o desenvolvimento da indústria. Isto porque o uso do BIM vem trazendo inovações para os processos de trabalho, integração entre os diferentes agentes da cadeia produtiva, novas visualizações de soluções e, portanto, ganhos consideráveis para o setor em produtividade e eficiência como ainda é definido no manual do Fórum (_Shaping the Future of Construction – A Breakthrough in Mindsetand Technology_, 2016).
+
+{% embed url="https://www.youtube.com/watch?v=0JKWnfUpNVQ" %}
+5 formas de utilizar o 3D do BIM
+{% endembed %}
 
 #### BIM NO BRASIL - ESTRATÉGIA BIM BR
 
@@ -54,7 +58,7 @@ IX – Incentivar a concorrência no mercado por meio de padrões neutros de int
 
 Visando a realização de tais objetivos, o documento do BIM BR estabeleceu um _Roadmap_ definindo as metas progressivas para a obtenção de um aumento de produtividade das empresas envolvidas em 10%, a partir de 2018, até a elevação em 18,9% do PIB da construção civil em 2028, de acordo com as responsabilidades de cada área responsável por promover, capacitar e divulgar o uso do BIM no país como pode ser visto na Figura 2.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Figura 2. BIM BR Roadmap (Estratégia BIM BR)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Figura 2. BIM BR Roadmap (Estratégia BIM BR)</p></figcaption></figure>
 
 A Estratégia BIM BR ainda enfatiza o papel do governo na disseminação do BIM como cliente com poder de compra e, portanto, com a capacidade de exigir progressivamente não apenas a adoção da metodologia BIM para seus colaboradores assim como cada vez graus mais elevados de utilização do BIM. A partir de janeiro de 2021 é iniciada a primeira fase para a exigência do BIM na elaboração dos modelos de arquitetura, estrutura, hidráulica, AVAC (aquecimento, ventilação e ar-condicionado), elétrica, na detecção de interferências e revisão dos modelos de arquitetura, engenharia, extração de quantitativos e documentação gerada a partir destes modelos, para projetos considerados relevantes para o intuito de disseminação do BIM no país.
 
