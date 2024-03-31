@@ -4,7 +4,16 @@
 
 ## SSEP
 
-* [BIM Mandate (CEPE)](ssep/bim-mandate-cepe.md)
+* [BIM Mandate FAB](ssep/bim-mandate-fab/README.md)
+  * [Disposições Preliminares](ssep/bim-mandate-fab/disposicoes-preliminares.md)
+  * [NÍVEIS DE IMPLANTAÇÃO BIM EM PROJETO](ssep/bim-mandate-fab/niveis-de-implantacao-bim-em-projeto.md)
+  * [ANEXO A](ssep/bim-mandate-fab/anexo-a/README.md)
+    * [FLUXO DE GESTÃO DE PROJETO](ssep/bim-mandate-fab/anexo-a/fluxo-de-gestao-de-projeto.md)
+    * [FLUXO DE TRABALHO PLATAFORMA AUTODESK](ssep/bim-mandate-fab/anexo-a/fluxo-de-trabalho-plataforma-autodesk.md)
+    * [FLUXO DE TRABALHO ALTOQI E AUTODESK](ssep/bim-mandate-fab/anexo-a/fluxo-de-trabalho-altoqi-e-autodesk.md)
+  * [ANEXO B](ssep/bim-mandate-fab/anexo-b.md)
+  * [ANEXO C](ssep/bim-mandate-fab/anexo-c/README.md)
+    * [USOS BIM](ssep/bim-mandate-fab/anexo-c/usos-bim.md)
 * [Padrões de Projeto](ssep/padroes-de-projeto/README.md)
   * [Revit: Vinculação de Projetos](ssep/padroes-de-projeto/revit-vinculacao-de-projetos.md)
   * [Estruturas](ssep/padroes-de-projeto/estruturas.md)

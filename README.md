@@ -13,5 +13,5 @@ Objetivo: Ajudar as equipes a trabalhar de forma mais eficiente com uma document
 
 Organizações que contribuíram com esse projeto:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/cepe (1).gif" alt="" data-size="original"></td><td></td><td><a href="https://www.cepe.intraer/">www.cepe.intraer/</a></td></tr><tr><td><img src=".gitbook/assets/image (2).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/ITA_logo.png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/cepe (1).gif" alt="" data-size="original"></td><td></td><td><a href="https://www.cepe.intraer/">www.cepe.intraer/</a></td></tr><tr><td><img src=".gitbook/assets/image (2) (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><img src=".gitbook/assets/ITA_logo.png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 
