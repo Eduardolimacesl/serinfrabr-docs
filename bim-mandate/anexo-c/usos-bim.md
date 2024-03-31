@@ -1,5 +1,9 @@
 # USOS BIM
 
+{% embed url="https://www.youtube.com/watch?t=2s&v=mZ51g5y6Ep4" fullWidth="true" %}
+Usos do BIM do 3D ao 7D
+{% endembed %}
+
 O conceito BIM vem sendo amplamente estudado e aplicado de forma crescente nas últimas décadas por pesquisadores, projetistas, coordenadores e modeladores que tem encontrado benefícios consideráveis na sua aplicação no contexto das diferentes etapas da construção civil e industrial, desde o aprimoramento dos processos até a melhoria da qualidade dos entregáveis.
 
 Em âmbito nacional, também, a crescente adoção do BIM tem possibilitado um nítido avanço na qualidade dos projetos de arquitetura e engenharia, bem como nos procedimentos de execução e controle.
