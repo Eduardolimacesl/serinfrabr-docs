@@ -1,3 +1,7 @@
+---
+description: MCA 86-1 MANUAL DE MODELAGEM BIM – BIM MANDATE
+---
+
 # BIM Mandate FAB
 
 A gestão das informações da engenharia para os processos de licitação é fundamental para as prerrogativas da Administração Pública. A tecnologia de informação propicia a transparência e a qualidade necessárias para otimização de obras e serviços de engenharia e para melhoria da aplicação dos recursos a serem investidos no patrimônio imóvel.

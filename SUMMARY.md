@@ -5,7 +5,7 @@
 ## SSEP
 
 * [BIM Mandate FAB](ssep/bim-mandate-fab/README.md)
-  * [Disposições Preliminares](ssep/bim-mandate-fab/disposicoes-preliminares.md)
+  * [DISPOSIÇÕES PRELIMINARES](ssep/bim-mandate-fab/disposicoes-preliminares.md)
   * [NÍVEIS DE IMPLANTAÇÃO BIM EM PROJETO](ssep/bim-mandate-fab/niveis-de-implantacao-bim-em-projeto.md)
   * [ANEXO A](ssep/bim-mandate-fab/anexo-a/README.md)
     * [FLUXO DE GESTÃO DE PROJETO](ssep/bim-mandate-fab/anexo-a/fluxo-de-gestao-de-projeto.md)

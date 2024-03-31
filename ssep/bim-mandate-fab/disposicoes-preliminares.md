@@ -1,12 +1,45 @@
-# Disposições Preliminares
+# DISPOSIÇÕES PRELIMINARES
 
-### 1.1 OBJETIVO
+### OBJETIVO
 
+{% hint style="info" %}
 Este manual visa apresentar o planejamento para a implantação do BIM na FAB, mostrando conceitos, procedimentos e a organização dos polos de desenvolvimento BIM da FAB e seus papéis como fomentadores e disseminadores da tecnologia.
+{% endhint %}
 
-### 1.2 APRESENTAÇÃO DOS ANEXOS
+### APRESENTAÇÃO DOS ANEXOS
 
-#### 1.2.1 ANEXO A - MANUAL DE MODELAGEM DA INFORMAÇÃO
+#### [ANEXO A - MANUAL DE MODELAGEM DA INFORMAÇÃO](anexo-a/)
 
 Apresenta as regras gerais, os padrões e os procedimentos para a elaboração de modelos e para a organização da base de dados comum de engenharia da FAB.
 
+#### [ANEXO B - INTEROPERABILIDADE](anexo-b.md)
+
+Apresenta parâmetros e conceitos para que os projetos elaborados pelos programas de modelagem sejam exportados em formato _.ifc_, possibilitando a conexão entre diferentes ferramentas computacionais de elaboração de projetos, condição necessária para a implantação completa da metodologia BIM.
+
+#### [ANEXO C – CONCEITOS BIM](disposicoes-preliminares.md#anexo-c-conceitos-bim)
+
+Aborda sucintamente a teoria da metodologia BIM e apresenta uma bibliografia cujas publicações embasam este trabalho.
+
+#### ANEXO D – PLATAFORMAS
+
+Apresenta as plataformas e softwares utilizados por cada disciplina dentro da metodologia BIM, bem como o seu estágio de implantação.
+
+#### ANEXO E – TUTORIAIS DE MODELAGEM
+
+Apresenta instruções práticas mais detalhadas para o auxílio na elaboração de modelos.
+
+#### ANEXO F – RESPONSABILIDADES E NÍVEIS DE DESENVOLVIMENTO
+
+Apresenta o grau de responsabilidade e o nível de desenvolvimento para cada item de projeto, listados de acordo com seus códigos SEAP e ABNT.
+
+#### ANEXO G - PADRÕES TÉCNICOS DE FAMÍLIAS
+
+Apresenta os padrões técnicos de todas as famílias a serem utilizadas por cada disciplina, incluindo padrões gráficos, de nomenclatura, categorias e códigos ABNT, SEAP e de Composição.
+
+#### ANEXO H – CODIFICAÇÃO DE PROJETOS
+
+Apresenta os padrões para os códigos de projetos, códigos de documentos e nomes de arquivos digitais da FAB.
+
+#### ANEXO I – LISTAS DE VERIFICAÇÃO
+
+Apresenta uma lista de tópicos a serem verificados em diferentes fases do projeto e por disciplina, de acordo com os padrões técnicos de famílias apresentados no Anexo G.
