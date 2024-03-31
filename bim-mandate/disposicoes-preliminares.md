@@ -43,3 +43,23 @@ Apresenta os padrões para os códigos de projetos, códigos de documentos e nom
 #### ANEXO I – LISTAS DE VERIFICAÇÃO
 
 Apresenta uma lista de tópicos a serem verificados em diferentes fases do projeto e por disciplina, de acordo com os padrões técnicos de famílias apresentados no Anexo G.
+
+### POLOS DE DESENVOLVIMENTO
+
+A implantação da metodologia BIM na FAB envolverá órgãos técnicos e administrativos. Cada órgão fará uso da metodologia BIM dentro de sua missão e especificidade. Três unidades, entretanto, serão os vetores de implantação.
+
+#### CISCEA
+
+Órgão pioneiro na implantação da metodologia, em um grupo restrito de pessoas e projetos. Por estar em um estágio mais avançado de implantação, é o órgão responsável pelo desenvolvimento de soluções acerca da interoperabilidade entre ferramentas de projeto.
+
+#### ITA
+
+Através do laboratório LabBIM, é o órgão responsável pela realização de pesquisa e desenvolvimento de soluções e ferramentas BIM. Deverá desenvolver a tecnologia necessária para a evolução da metodologia na FAB, atuando tanto no desenvolvimento de plugins, softwares e bancos de dados. Além disso, deve atuar na capacitação dos profissionais.
+
+#### CEPE
+
+Órgão responsável pela elaboração dos projetos interdisciplinares. É responsável pelo estabelecimento dos padrões e procedimentos de projeto que deverão ser replicados para todos os elos da FAB.
+
+{% embed url="https://drive.google.com/file/d/1aG_tj17q4cCqWZT1QPydfr9iw5mRbk3w/view" %}
+Vídeo conceito da nova sede do CEPE&#x20;
+{% endembed %}
